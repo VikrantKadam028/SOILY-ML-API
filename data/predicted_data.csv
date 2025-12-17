@@ -1,0 +1,29 @@
+District_Name,Soil_color,Nitrogen,Phosphorus,Potassium,pH,Rainfall,Temperature,Crop,Fertilizer
+Haveli,Dark Brown,34.4,42.0,150.0,6.9,1184.0,26.0,Sugarcane,Urea
+Pune,Dark Brown,29.24,58.0,150.0,6.5,1027.0,28.2,Sugarcane,Urea
+Pune,Dark Brown,29.24,90.0,150.0,6.5,1099.0,30.6,Sugarcane,Urea
+Pune,Brown,20.64,90.0,150.0,7.2,652.0,32.9,Sugarcane,Urea
+Pune,Brown,20.64,86.0,150.0,7.4,653.0,29.0,Sugarcane,Urea
+Pune,Dark Brown,39.559999999999995,80.0,150.0,7.0,1030.0,32.4,Sugarcane,Urea
+Haveli,Brown,20.0,90.0,150.0,7.9,713.0,25.5,Sugarcane,Urea
+Haveli,Black,20.0,42.0,150.0,6.8,861.0,32.9,Sugarcane,Urea
+Haveli,Black,20.0,66.0,150.0,7.8,994.0,31.5,Sugarcane,Urea
+Haveli,Brown,20.0,54.0,150.0,6.5,886.0,28.6,Sugarcane,Urea
+Haveli,Black,20.0,90.0,150.0,7.3,985.0,29.5,Sugarcane,Urea
+Haveli,Black,20.0,90.0,150.0,6.2,805.0,27.4,Sugarcane,Urea
+Haveli,Dark Brown,20.0,76.0,150.0,7.8,650.0,31.5,Sugarcane,Urea
+Khed,Red,20.0,90.0,150.0,6.0,1047.0,26.6,Sugarcane,Urea
+Pune,Brown,20.0,60.0,150.0,7.1,1063.0,31.2,Sugarcane,Urea
+Khed,Black,20.0,44.0,150.0,7.1,1326.0,30.6,Sugarcane,Urea
+Khed,Black,20.0,90.0,150.0,7.8,1037.0,27.0,Sugarcane,Urea
+Khed,Brown,20.0,70.0,150.0,8.3,775.0,28.1,Sugarcane,Urea
+Khed,Brown,20.0,90.0,150.0,6.2,875.0,30.6,Sugarcane,Urea
+Khed,Brown,20.0,90.0,150.0,6.0,1113.0,28.2,Sugarcane,Urea
+Khed,Black,20.0,58.0,150.0,8.3,791.0,25.3,Sugarcane,Urea
+Pune,Black,20.0,90.0,150.0,7.1,1330.0,31.6,Sugarcane,Urea
+Pune,Black,20.0,58.0,150.0,7.0,1124.0,27.2,Sugarcane,Urea
+Pune,Brown,20.0,90.0,150.0,8.4,1268.0,30.9,Sugarcane,Urea
+Pune,Black,20.0,54.0,150.0,7.7,920.0,27.8,Sugarcane,Urea
+Pune,Brown,20.0,90.0,150.0,7.5,860.0,31.1,Sugarcane,Urea
+Pune,Black,20.0,90.0,150.0,6.3,841.0,27.2,Sugarcane,Urea
+Lejweleputswa District Municipality,Black,20.0,58.0,150.0,6.6,610.0,30.7,Sugarcane,Urea
